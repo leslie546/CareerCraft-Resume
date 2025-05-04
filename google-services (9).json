@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "480816958300",
+    "firebase_url": "https://careercraft-ai-4fiyz-default-rtdb.firebaseio.com",
+    "project_id": "careercraft-ai-4fiyz",
+    "storage_bucket": "careercraft-ai-4fiyz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480816958300:android:002b6098053436090f0f99",
+        "android_client_info": {
+          "package_name": "CareerCraft.Resume"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480816958300-21tf2b0ov6bttdl1bl7ho407q4looqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoDX-ewa4O4uBAN2l8Ulblh693ZQm2BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480816958300-21tf2b0ov6bttdl1bl7ho407q4looqja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480816958300:android:dc2004a854058e3d0f0f99",
+        "android_client_info": {
+          "package_name": "com.protonmail.starboyles.careercraft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480816958300-21tf2b0ov6bttdl1bl7ho407q4looqja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChoDX-ewa4O4uBAN2l8Ulblh693ZQm2BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480816958300-21tf2b0ov6bttdl1bl7ho407q4looqja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
